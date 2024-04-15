@@ -1,0 +1,15 @@
+Simulare semafor la o trecere de pietoni
+
+Proiectul simulează funcționarea unui semafor la o trecere de pietoni. 
+Există două semafoare, cel petru trafic și cel pentru pietoni. În stare pasivă, semaforul pentru trafic e verde, iar cel pentru pietoni e roșu.
+La apăsarea butonului se inițiază schimbarea culorii semafoarelor:
+	1. După un interval de timp, led-ul verde pentru trafic începe să licărească, după care se stinge
+	2. Led-ul galben pentru trafic începe să licărească, după care se stinge
+	3. Led-ul roșu pentru trafic se aprinde
+	4. După un anumit interval de timp led-ul roșu pentru pietoni se stinge
+	5. Led-ul verde pentru pietoni se aprinde
+	6. Semafoarele stau în starea aceasta un timp
+	7. Led-ul verde pentru pietoni începe să licărească și se stinge
+	8. Led-ul roșu pentru pietoni se aprinde
+	9. Led-ul roșu pentru trafic începe să licărească, după care se stinge
+	10. Led-ul verde pentru trafic se aprinde, semaforul a revenit la starea inițială (pasivă) 

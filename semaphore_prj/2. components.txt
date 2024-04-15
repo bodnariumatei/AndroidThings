@@ -1,0 +1,12 @@
+Componente:
+	- plăcuța Arduino UNO R3
+	- breadboard
+	- 2x led roșu
+	- 2x led verde
+	- 1x led galben
+	- 3x rezistențe 1k ohm
+	- 2x rezistrețe 220 ohm
+	- 1x rezistență 10k ohm
+	- buton
+	- 8x fire jumper
+	- alte fire pentru conexiuni pe breadboard
