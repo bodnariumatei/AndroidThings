@@ -1,0 +1,19 @@
+// remote buttons definitions
+
+#define BTN1 16753245
+#define BTN2 16736925
+#define BTN3 16769565
+#define BTN4 16720605
+#define BTN5 16712445
+#define BTN6 16761405
+#define BTN7 16769055
+#define BTN8 16754775
+#define BTN9 16748655
+#define BTN0 16750695
+#define STARB 16738455
+#define DIEZB 16756815
+#define UPB 16718055
+#define DOWNB 16730805
+#define LEFTB 16716015
+#define RIGHTB 16734885
+#define OKB 16726215
